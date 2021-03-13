@@ -1,4 +1,4 @@
-# Social Perception: Shaping the spectrum of human thought.
+# Social Perception: Modelling the human thought and social attitudes.
 
 **Social Perception** is an open-source data science research project that focuses on discovering meaningful insights and modelling the spectrum of human thought making use of psychographic, sociodemographic, and viewpoint data from the European Social Survey (ESS) R8. <sub><sup>*_ESS Round 8: European Social Survey Round 8 Data (2016). Data file edition 2.1. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. doi:10.21338/NSD-ESS8-2016._*</sup></sub>
 
@@ -8,7 +8,7 @@ The *European Social Survey* is a social scientific endeavour to map the attitud
 
 ## Discoverings
 
-Throughout the development of this project, I've came across a great deal of intelligible and very interesting insights that describe social attitudes towards different aspects of life, reaching the ulterior purpose of this venture, which is to **develop a bootstrap framework on how to functionally malleableize and manipulate opinion, by making use of human beliefs and feelings** in a theoretical playground. You can have a look at the [research notebooks.](https://github.com/ivanachillee/social-perception/tree/main/notebooks)
+Throughout the development of this project, I've came across a great deal of intelligible and very interesting insights that describe social attitudes towards different aspects of life, reaching the ulterior purpose of this venture, which is to **develop a bootstrap framework on how to understand and manipulate opinion, by making use of human beliefs and feelings** in a *theoretical playground*. You can have a look at the [research notebooks.](https://github.com/ivanachillee/social-perception/tree/main/notebooks)
 
 ## Contributing
 Feel free to fork this repository and use the research of this project to build upon. If you have any question, please open an issue to discuss your inquiry.
