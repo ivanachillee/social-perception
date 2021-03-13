@@ -8,7 +8,7 @@ The *European Social Survey* is a social scientific endeavour to map the attitud
 
 ## Discoverings
 
-Throughout the development of this project, I've came across a great deal of intelligible and very interesting insights that describe social attitudes towards different aspects of life, reaching the ulterior purpose of this venture, which is to **develop a bootstrap framework on how to functionally malleableize and manipulate opinion, making use of human beliefs and feelings** in a theoretical playground, employing the *ESS* dataset. You can have a look at the [research notebooks.](https://github.com/ivanachillee/social-perception/tree/main/notebooks)
+Throughout the development of this project, I've came across a great deal of intelligible and very interesting insights that describe social attitudes towards different aspects of life, reaching the ulterior purpose of this venture, which is to **develop a bootstrap framework on how to functionally malleableize and manipulate opinion, making use of human beliefs and feelings** in a theoretical playground. You can have a look at the [research notebooks.](https://github.com/ivanachillee/social-perception/tree/main/notebooks)
 
 ## Contributing
 Feel free to fork this repository and use the research of this project to build upon. If you have any question, please open an issue to discuss your inquiry.
