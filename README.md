@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The *European Social Survey* is a social scientific endeavour to map the attitudes, beliefs and behaviour patterns of the various populations in Europe. The data is open to everyone on the [European Social Survey website](https://www.europeansocialsurvey.org/). **Social Perception** makes use of this public-access data with the objective of analysing human convictions, thoughts, world conceptions, and how can these be modelled.
+The *European Social Survey* is a social scientific endeavour to map the attitudes, beliefs and behaviour patterns of the various populations in Europe. The data is open to everyone at the [European Social Survey website](https://www.europeansocialsurvey.org/). **Social Perception** makes use of this public-access data with the objective of analysing human convictions, thoughts, world conceptions, and how can these be modelled.
 
 ## Discoverings
 
