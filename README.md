@@ -1,17 +1,17 @@
-# Social Perception: Studying and moving the human perspective with machine learning.
+# Social Perception: Studying and Influencing Human Perspectives with Machine Learning
 
-**Social Perception** is an open research project that focuses on discovering meaningful insights towards sociopolitical attitudes, making use of psychographic, sociodemographic, and viewpoint data from the European Social Survey (ESS) R8. <sub><sup>*_ESS Round 8: European Social Survey Round 8 Data (2016). Data file edition 2.1. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. doi:10.21338/NSD-ESS8-2016._*</sup></sub>
+**Social Perception** is an open research project aimed at uncovering insightful information on sociopolitical attitudes by leveraging psychographic, sociodemographic, and viewpoint data from the European Social Survey (ESS) Round 8. <sub><sup>*_ESS Round 8: European Social Survey Round 8 Data (2016). Data file edition 2.1. NSD - Norwegian Centre for Research Data, Norway – Data Archive and distributor of ESS data for ESS ERIC. doi:10.21338/NSD-ESS8-2016._*</sup></sub>
 
 ## Introduction
 
-The *European Social Survey* is a social scientific endeavour to map the attitudes, beliefs and behaviour patterns of the various populations in Europe. The data is open to everyone at the [European Social Survey website](https://www.europeansocialsurvey.org/). **Social Perception** makes use of this public-access data with the objective of analysing human convictions, thoughts, world conceptions, and how can these be modelled.
+The *European Social Survey* is a social science initiative designed to map the attitudes, beliefs, and behavior patterns of populations across Europe. The data is freely available to all at the [European Social Survey website](https://www.europeansocialsurvey.org/). **Social Perception** utilizes this publicly accessible data to analyze human convictions, thoughts, worldviews, and the modeling of these elements.
 
-## Discoverings
+## Discoveries
 
-Throughout the development of this project, I've come across a great deal of intelligible and very interesting insights that describe social attitudes towards different aspects of life, reaching the ulterior purpose of this venture, which is to **model the human thought/opinion** in a *theoretical playground*. You can have a look at the [research notebooks.](https://github.com/ivanachillee/social-perception/tree/main/notebooks)
+During the project's development, I have encountered numerous insightful and intriguing findings that depict social attitudes towards various aspects of life. These discoveries further the ultimate goal of this endeavor, which is to **model human thought/opinion** in a *theoretical framework*. You can explore these findings in the [research notebooks](https://github.com/ivanachillee/social-perception/tree/main/notebooks).
 
 ## Contributing
-Feel free to fork this repository and use the research of this project to build upon. If you have any question, please open an issue to discuss your inquiry.
+You are encouraged to fork this repository and expand on the project's research. If you have any questions, please open an issue to discuss your concerns.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
